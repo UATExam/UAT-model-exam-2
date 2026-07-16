@@ -17,7 +17,7 @@ const CONFIG = {
   LEAVE_RESTART_AT: 5,
 };
 
-const STORAGE_KEY = "uatModelExamState_v1";
+const STORAGE_KEY = "uatModelExamState_model2";
 
 /* ---------------------------------------------------------------------
    STATE
